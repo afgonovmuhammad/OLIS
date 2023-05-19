@@ -1,0 +1,18 @@
+
+
+.UL{
+    border-top: 2px solid #6d6b6b;
+    padding-top: 10px;
+}
+
+.SELECT{
+    background-color: white;
+    box-shadow: 1px 1px 10px #a19f9f;
+}
+
+.INPUT{
+    border: 1px solid rgba(219, 218, 219, 0.849);
+}
+.KAHT{
+    border: 2px solid #6b6b6b;
+}
